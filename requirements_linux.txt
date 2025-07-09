@@ -38,7 +38,6 @@ transformers==4.44.2
 voluptuous==0.13.1
 wandb==0.18.0
 # for kohya_ss sd-scripts library
--e ./sd-scripts
 xformers>=0.0.30
 easygui
 bitsandbytes>=0.45.0
